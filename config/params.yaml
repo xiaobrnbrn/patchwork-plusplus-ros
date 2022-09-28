@@ -3,8 +3,8 @@ save_flag: true
 patchworkpp:
     
     # kitti: 1.723m
-    # vv6: TODO:
-    sensor_height: 1.723
+    # vv6: 1.95m
+    sensor_height: 1.95
 
     mode: "czm" 
     verbose: false   # To check effect of uprightness/elevation/flatness
